@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\sdl_game-master\project1\main.cpp(590): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\sdl_game-master\project1\main.cpp(844): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> D:\SDL_Game-master\Debug\Project1.exe
